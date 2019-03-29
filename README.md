@@ -8,5 +8,5 @@
 * Spring Boot Admin   
    (Fonte: https://www.baeldung.com/spring-boot-admin)
 
-### Acessando aplicação:
+### Aplicação:
 *  http://localhost:8081
